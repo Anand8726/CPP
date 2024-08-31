@@ -18,6 +18,7 @@ int main(){
     z = ~ x ;
     cout<<" NOT OPERATION = "<<z<<endl;
 
+    //considering value of character A = 20 
     char a = 20 , b ;
     
     b = a << 1;
